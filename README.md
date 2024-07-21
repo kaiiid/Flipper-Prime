@@ -1,6 +1,5 @@
 # Flipper-Prime
-Just a recopilation of stuff about the Flipper...
 
+Just a collection of stuff about the Flipper...
 
-The infrared folder has the recolection of the most used and buyed brands of airconditiones, tvs, leds, etc..
-sometimes is better to have less stuff, otherwise fills the memory, and its quite less productive.
+The infrared folder contains a compilation of the most commonly used and purchased brands of air conditioners, TVs, LEDs, etc. Sometimes, it's better to have fewer items to avoid filling up the memory, which can be counterproductive.
